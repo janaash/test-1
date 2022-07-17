@@ -1,0 +1,7 @@
+def my_fun1(a,b):
+    if b > a :
+        print ('hello, world')
+    else :
+        print ('sorry')
+    return 
+my_fun1(1,2)
